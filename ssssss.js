@@ -1,5 +1,0 @@
-leejinsoo
-
-asdfasdfasdfasdfas
-
-asdfasdfasfasd
