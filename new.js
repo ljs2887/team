@@ -1,1 +1,3 @@
-console.log("go home");
+const name = "JinSoo"
+
+console.log(name);
